@@ -1,3 +1,8 @@
+<style>
+    body {
+        font-family: 'Times New Roman', Times, serif;
+    }
+</style>
 ## Below are the links associated with my Application:
 
 # [Project with **Dr. Gupta** on Job Postings | Code](https://github.com/YongzhWang/Job-Remote-Classification)
