@@ -1,4 +1,4 @@
-# Below are the links associated with my Application:
+# Below are the links associated with my Transfer Application:
 
 [Project with **Dr. Gupta** on Job Postings | Code](https://github.com/YongzhWang/Job-Remote-Classification)
 
